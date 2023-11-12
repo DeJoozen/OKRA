@@ -1,0 +1,11 @@
+.app-component-container {
+  width: 1703px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 768px;
+  margin: var(--dl-space-space-unit);
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
