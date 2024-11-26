@@ -1,29 +1,46 @@
-OKRA 🌿
+OKRA - Opwijk 🌿
 A Website Project for My Grandfather
 
-Welcome to OKRA, a website project I started at the request of my grandfather. This project is currently a work in progress, and while I haven’t been able to dedicate much time to it recently, I am passionate about web development and plan to complete it in the future.
+Welcome to OKRA - Opwijk, a website that I’m building at the request of my grandfather. The goal of this project is to create a more accessible, user-friendly platform for the OKRA community in Belgium, which currently has an official website that is difficult for elderly people—like my grandfather—to navigate. As I’ve just finished my first year in Applicable Computer Sciences, I took on this challenge to improve my development skills, despite not pursuing development as my primary field of study.
+
+This project is currently a work in progress. While development is on hold for now due to other commitments, I plan to resume working on it in the future, as it aligns with my passion for web development.
 
 📖 About the Project
-OKRA is envisioned as [describe what the website is intended for briefly—e.g., "a platform to showcase [purpose/details]"]. My goal is to create a user-friendly, responsive, and visually appealing website tailored to meet my grandfather’s specific needs.
+OKRA - Opwijk aims to provide a simpler and more accessible platform for elderly members of the community, focusing on ease of navigation and clear, straightforward design. The website will feature important community information, updates, and resources in a way that is tailored to the needs of its users.
 
 Features (Planned and Implemented)
-Planned Features:
-[List features you plan to implement, e.g., "A custom dashboard", "Interactive forms", etc.]
-[Add any specific goals that resonate with your aspirations in web development]
 Implemented So Far:
-Basic layout and design structure.
-Initial setup with [e.g., "HTML/CSS/JavaScript", "React.js framework", etc.].
+
+Basic homepage with a simple, clean layout.
+A navigation bar to access different sections of the website.
+Initial page structure for easy browsing.
+Planned Features:
+
+A membership form that notifies my grandfather when new members wish to join OKRA.
+A contact page with easy-to-use forms for communication.
+A calendar of events to keep members informed about upcoming community activities.
+A news section to post important updates for members.
 🚧 Current Status
-As of now, development is on pause due to other commitments. However, I am committed to revisiting and completing this project in the future.
+The project is currently paused due to other priorities. However, I am excited to return to it and continue development, as I believe this project will help me improve my web development skills and make a positive impact on my grandfather’s community.
 
 🛠️ Tools and Technologies
-[List the technologies/frameworks/languages you're using, e.g., "HTML5, CSS3, JavaScript, React.js, Node.js, etc."]
+This project uses the following technologies:
+
+HTML5 for the website structure.
+CSS3 for styling and responsiveness.
+JavaScript for interactivity.
+Potential future integration with Node.js or React.js for more dynamic features.
+The website will be hosted on my homelab, a personal server I set up in 2024.
 🙌 Why This Project Matters to Me
-This project is special because it represents not only my desire to help my grandfather but also my passion for creating and building websites. It’s a small step toward honing my web development skills and turning ideas into functional, beautiful designs.
+This project is special because it represents both my desire to help my grandfather and my passion for web development. I saw an opportunity to create a more accessible experience for elderly people, which motivates me to continue improving my skills in web development. I hope this project will be a useful tool for the OKRA community, and I’m excited to finish it in the future.
 
 🚀 Future Plans
-Complete the remaining features and refine the design.
-Deploy the website for live use.
-Explore opportunities to further improve my skills in web development.
+Complete and refine the current features.
+Add the membership form and event calendar.
+Host the website on my homelab for local access and possibly future public hosting.
+Continue to learn and explore new web development technologies to enhance the website.
 🤝 Contributions
-While this project is personal, I am open to feedback and suggestions. If you have ideas or see areas for improvement, feel free to open an issue or submit a pull request.
+While this is a personal project, I welcome feedback, suggestions, and contributions. If you have ideas to improve the website or can help with any aspect of its development, feel free to open an issue or submit a pull request.
+
+📜 License
+This project is licensed under the MIT License. Feel free to use it as a reference or build upon it.
